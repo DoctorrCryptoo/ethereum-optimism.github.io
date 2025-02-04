@@ -12,3 +12,5 @@ COPY . /app
 CMD [ "pnpm", "start-bot" ]
 
 EXPOSE 7300
+
+\\\\
